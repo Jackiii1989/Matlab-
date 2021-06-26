@@ -5,7 +5,6 @@
 
 % type "help VISA_Instrument" to get help on VISA_Instrument class
 
-% 1.2.2020 Aljosa Klajderic, Hagebenerg
 
 % brief: a Script that connects to the oszi over TPC  witht VISA driver and reads 
 % the current measurment with the configured time base in oszi
