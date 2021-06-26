@@ -5,7 +5,6 @@
 
 % type "help VISA_Instrument" to get help on VISA_Instrument class
 
-% 1.2.2020 Aljosa Klajderic, Hagebenerg
 
 % brief: Script that in real times plots and refresh the data from the oszi and USB
 clc; clear all; close all;
