@@ -3,7 +3,7 @@ clear all; close all;
                                              
 % define variables 
 dinfo = dir('new-2019*.mat');
-fpath = 'C:\Users\aljosa.klajderic\Documents\Thesis_project\Matlab_Code\Data_Comparison';
+fpath = 'C:\Documents\Thesis_project\Matlab_Code\Data_Comparison';
 save = 0;
     
 Begin_iter = 1;
