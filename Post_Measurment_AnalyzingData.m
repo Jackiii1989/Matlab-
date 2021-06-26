@@ -33,7 +33,7 @@ end
 if figuredisp(3) == 1
     figure(f_dif);
 
-    fpath = 'C:\Users\aljosa.klajderic\Documents\Thesis_project\Matlab_Code\Data_Comparison';
+    fpath = '\Documents\Thesis_project\Matlab_Code\Data_Comparison';
     
     if save == 1
     saveas(gca, fullfile(fpath, 'diff_data_800'), 'png');
