@@ -1,6 +1,5 @@
 % requirements: just Matlab
 
-% 1.2.2020 Aljosa Klajderic, Hagebenerg
 
 % brief: a Script that connects to the oszi over TPC/IP and to the microcontroller
 % over USB to received the acceleration from two different accelerometer on two different paths
