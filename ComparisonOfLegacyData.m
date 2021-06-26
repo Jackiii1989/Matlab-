@@ -1,7 +1,5 @@
 % requirements: just Matlab
 
-% 1.2.2020 Aljosa Klajderic, Hagebenerg
-
 % brief: a Script that reads the legacy data fromt the previous project, trims the unrelevant values
 % and plots.
 
